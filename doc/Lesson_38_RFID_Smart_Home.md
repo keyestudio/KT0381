@@ -61,7 +61,7 @@ LED anode (long leg) → D2
 
 LED cathode (short leg) → Resistor → GND
 
-![6aa197f382712549c1c6be41e1b97033](media\6aa197f382712549c1c6be41e1b97033.png)
+![6aa197f382712549c1c6be41e1b97033](media/6aa197f382712549c1c6be41e1b97033.png)
 
 #### Sample Code
 

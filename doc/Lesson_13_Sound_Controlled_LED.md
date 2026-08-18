@@ -28,7 +28,7 @@ This project builds upon the previous lesson. Instead of just printing to the Se
 | LED          | Anode (+) | Digital Pin 4 (via 220Ω resistor) |
 | LED          | Cathode (-)| GND           |
 
-![Snipaste_2026-08-10_16-28-53](media\Snipaste_2026-08-10_16-28-53.png)
+![Snipaste_2026-08-10_16-28-53](media/Snipaste_2026-08-10_16-28-53.png)
 
 #### Sample Code
 

@@ -66,7 +66,7 @@ The Arduino then displays the computed temperature value on the LCD1602 liquid c
 
 - VOUT to A0
 
-  ![Snipaste_2026-08-11_16-03-17](media\Snipaste_2026-08-11_16-03-17.png)
+  ![Snipaste_2026-08-11_16-03-17](media/Snipaste_2026-08-11_16-03-17.png)
 
 #### Sample Code
 

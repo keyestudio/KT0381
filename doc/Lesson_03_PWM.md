@@ -46,7 +46,7 @@ To sum up, Arduino PWM quickly switches the pin level through the timer and adju
 
 The wiring is the same as Project 1.
 
-![img-20260408190220](media\img-20260408190220.png)
+![img-20260408190220](media/img-20260408190220.png)
 
 #### Sample Code
 

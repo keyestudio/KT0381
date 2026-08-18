@@ -100,7 +100,7 @@ Two power pins, one for module power, another one for back light, generally use 
 
 *Note: The two outer pins of the 10K potentiometer connect to 5V and GND.*
 
-![Snipaste_2026-08-11_15-18-00](media\Snipaste_2026-08-11_15-18-00.png)
+![Snipaste_2026-08-11_15-18-00](media/Snipaste_2026-08-11_15-18-00.png)
 
 #### Sample Code
 
