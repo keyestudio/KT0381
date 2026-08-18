@@ -1,13 +1,9 @@
-.. _preface--introduction:
-
+======================
 Preface & Introduction
 ======================
 
 |image1|
 
-
-
-.. _1introduction:
 
 1.Introduction
 --------------
@@ -17,7 +13,6 @@ for beginners and electronics enthusiasts. This kit contains multiple
 sensors and modules to help you get started quickly and practice a
 variety of basic and intermediate electronics projects.
 
-.. _2features:
 
 2.Features
 ----------
@@ -43,7 +38,6 @@ can explore and develop more advanced applications based on personal
 interests. This flexibility significantly enhances the kit's practical
 value.
 
-.. _3component-list:
 
 3.Component List
 ----------------
