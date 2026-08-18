@@ -1,6 +1,6 @@
 ### Project 37 RFID Module
 
-![Snipaste_2026-08-07_19-11-36](media\Snipaste_2026-08-07_19-11-36.png)
+![](media/Snipaste_2026-08-07_19-11-36.png)
 
 #### Description
 

@@ -1,6 +1,8 @@
 ### Project 19 Water Level Sensor
 
- ![](media/2f8004cb5640365538631fb7f05e2b94.png)Description
+ ![](media/2f8004cb5640365538631fb7f05e2b94.png)
+
+#### Description
 
 A water level sensor is a device used to detect and measure the height of water levels. In Arduino projects, a simple water level sensor module is often used. This module comes with a set of probes that conduct electricity when they come into contact with water. If the water level rises or falls, the sensor can detect changes in the electrical signal. This signal is then processed by the Arduino to monitor the water level. Water level detection is a common application, and today we will provide a detailed explanation of how to build a water level sensor system using Arduino.
 

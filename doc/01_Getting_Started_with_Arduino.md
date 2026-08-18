@@ -22,7 +22,7 @@ Arduino boasts multiple versions such as Widows, mac and Linux(as shown below), 
 
 Here, we will take **Windows Win 10 or newer(64-bit)** as an example to introduce how to download it. You may also choose the **Windows ZIP file**.
 
-![a2](media\Arduino_2.3.6-a2.png)
+![a2](media/Arduino_2.3.6-a2.png)
 
 Two versions are provided for Windows: for installing(Windows Win 10 or newer(64-bit)) and for downloading(Windows ZIP file, a zipped file, no need to install).
 
@@ -30,23 +30,23 @@ Two versions are provided for Windows: for installing(Windows Win 10 or newer(64
 
 1\. Save the .exe file downloaded from the software page to your hard drive and simply run the file.
 
-![a5](media\Arduino_2.3.6-a5.png)
+![a5](media/Arduino_2.3.6-a5.png)
 
 2\. Read the License Agreement and agree it.
 
-![a6](media\Arduino_2.3.6-a6.png)
+![a6](media/Arduino_2.3.6-a6.png)
 
 3\. Choose the installation options.
 
-![a7](media\Arduino_2.3.6-a7.png)
+![a7](media/Arduino_2.3.6-a7.png)
 
 4\. Choose the installation location.
 
-![a8](media\Arduino_2.3.6-a8.png)
+![a8](media/Arduino_2.3.6-a8.png)
 
 5\. Click “finish” and run Arduino IDE.
 
-![a9](media\Arduino_2.3.6-a9.png)
+![a9](media/Arduino_2.3.6-a9.png)
 
 ## 3. For MacOS
 
@@ -56,13 +56,13 @@ Enter Arduino official to download [Software | Arduino](https://www.arduino.cc/e
 
 Similar to Windows, here we will take **macOS Intel 10.15 Catalina or newer(64-bit)** as an example to introduce how to download it. You may also choose the **macOS Apple Silicon 11 Big Sur or newer(64-bit)**.
 
-![](media\Arduino_2.3.6-a4.png)
+![](media/Arduino_2.3.6-a4.png)
 
 ### 3.2 Install Arduino IDE
 
 After then, click the file `arduino_ide_xxxx.dmg` and follow the instruction: copy and pastes the  **Arduino IDE.app** into **Applications**. A couple of seconds later, you can see the Arduino IDE icon.
 
-![Img](media\Arduino_2.3.6-Mac.png)
+![Img](media/Arduino_2.3.6-Mac.png)
 
 ## 4. Arduino IDE Language
 
@@ -70,15 +70,15 @@ After then, click the file `arduino_ide_xxxx.dmg` and follow the instruction: co
 
 1\. Open Arduino IDE.
 
-![Img](media\Arduino_2.3.6-ArduinoIDE.png)
+![Img](media/Arduino_2.3.6-ArduinoIDE.png)
 
 2\. Click “**File** ——>**Preferences...**”. In **Preferences**, click “**English**” to select a familiar language and “**OK**”.
 
-![Img](media\Arduino_2.3.6-a29-1.png)
+![Img](media/Arduino_2.3.6-a29-1.png)
 
 ## 5. Arduino IDE Page
 
-![](media\Arduino_2.3.6-a35.png)
+![](media/Arduino_2.3.6-a35.png)
 
 1. **File** - includes new Sketch, open Sketch, open recently used code, open sample code, close the IDE, save code, preferences, advanced Settings, etc.
 2. **Edit** - includes copy, paste, automatic formatting, font size, etc. (shortcut keys are recommended).
@@ -123,33 +123,33 @@ delay(1000); //Delay of 1 second
 }
 ```
 
-![IMG_256](media\e95ea5b14321ab7257f9eaa38fae9a47-17864379232441.png)
+![IMG_256](media/e95ea5b14321ab7257f9eaa38fae9a47-17864379232441.png)
 
 Click “Tools”——>“Board”——> Arduino AVR Boards, and here we choose Arduino Uno as our development board.
 
-![IMG_257](media\7267fbefcfc10995f8e85bc26e54b49f-17864379232442.png)
+![IMG_257](media/7267fbefcfc10995f8e85bc26e54b49f-17864379232442.png)
 
 Choose the correct COM port.
 
 If there are so many ports that you have no idea which is the correct one, you may unplug the board to check which one disappears. If there is no COM port, please check whether the driver is installed.
 
-![b03bcce79bae9d13d76a39e66f492838-17864379232443.jpeg](media\b03bcce79bae9d13d76a39e66f492838-17864379232443.jpeg.jpg)
+![b03bcce79bae9d13d76a39e66f492838-17864379232443.jpeg](media/b03bcce79bae9d13d76a39e66f492838-17864379232443.jpeg.jpg)
 
 In our demostration, the port is COM3, so we click “Tools”to choose“COM3” in “Port”.
 
-![IMG_259](media\b7a5fd0cde765bcbabcea31d055f0f73-17864379232447.png)
+![IMG_259](media/b7a5fd0cde765bcbabcea31d055f0f73-17864379232447.png)
 
 If your board is successfully connected, it will show on the interface.
 
-![IMG_260](media\d7fef58fae7f6d8f515f6476d5012c2a-17864379232444.png)
+![IMG_260](media/d7fef58fae7f6d8f515f6476d5012c2a-17864379232444.png)
 
-Click ![IMG_261](media\44a062aa272e21abb8308ad9bc3a1167-17864379232445.png)to compile the code. If it succeeds, the following two show up:
+Click ![IMG_261](media/44a062aa272e21abb8308ad9bc3a1167-17864379232445.png)to compile the code. If it succeeds, the following two show up:
 
-![IMG_262](media\fcf249833d7630efccf8e5bb9c2eade0-17864379232446.png)
+![IMG_262](media/fcf249833d7630efccf8e5bb9c2eade0-17864379232446.png)
 
-Click ![IMG_263](media\84d060e66fbd48b08d74dc6a84c1785e-17864379232448.png)and set baud rate to 9600, and “Hello Keyestudio!” are being printed!
+Click ![IMG_263](media/84d060e66fbd48b08d74dc6a84c1785e-17864379232448.png)and set baud rate to 9600, and “Hello Keyestudio!” are being printed!
 
-![IMG_264](media\c8e46fb53356400412788c518d5ae7d0-17864379232449.png)
+![IMG_264](media/c8e46fb53356400412788c518d5ae7d0-17864379232449.png)
 
 1.“Toggle Autoscroll”: To set whether to follow the print.
 
