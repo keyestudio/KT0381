@@ -110,7 +110,7 @@ OUT: development board digital pin
 
 
 
-### Install Library
+#### Install Library
 
 Before starting to code, we need to install the IRremote library file first.
 

@@ -97,41 +97,31 @@ After then, click the file `arduino_ide_xxxx.dmg` and follow the instruction: co
 15. **Code editing area**
 16. **IDE prompt area** (Uploading fails or succeeds) & **Serial monitor display area**
 
-### 6. Upload Code via Arduino IED
-
-
+## 6. Upload Code via Arduino IED
 
 Upload code: An examples code is provided here: it will print “Hello Keyestudio!” per second.
 
 Copy and paste the following code to Arduino IDE:
 
+```c++
 /*
-
 keyestudio
-
 Print “Hello Keyestudio!”
-
 http://www.keyestudio.com
-
 */
 
 void setup() {
-
 // put your setup code here, to run once:
 
 Serial.begin(9600); //Set the serial port baud rate to 9600
-
 }
 
 void loop() {
-
 // put your main code here, to run repeatedly:
-
 Serial.println("Hello Keyestudio!"); //Serial port printing
-
 delay(1000); //Delay of 1 second
-
 }
+```
 
 ![IMG_256](media\e95ea5b14321ab7257f9eaa38fae9a47-17864379232441.png)
 
