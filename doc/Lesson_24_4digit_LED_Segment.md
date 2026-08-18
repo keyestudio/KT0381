@@ -74,13 +74,13 @@ Before starting to code, we need to install the TimerOne library file first.
 
 2. Go to **Sketch** -> **Include Library** -> **Manage Libraries...**
 
-   ![Snipaste_2026-08-11_08-48-39](media\Snipaste_2026-08-11_08-48-39.png)
+   ![Snipaste_2026-08-11_08-48-39](media/Snipaste_2026-08-11_08-48-39.png)
 
 3. In the Library Manager window that pops up, you'll see a search box. Enter the name of the"TimerOne" library .
 
 **Search for Libraries**:
 
-![Snipaste_2026-08-11_09-08-55](media\Snipaste_2026-08-11_09-08-55.png)
+![Snipaste_2026-08-11_09-08-55](media/Snipaste_2026-08-11_09-08-55.png)
 
 
 

@@ -100,7 +100,7 @@ The longer lead of an LED is generally the positive (Anode), while the shorter l
 
 3.Connect the GND pin of the board via jump wire to the row of the breadboard where the LED cathode is.
 
-![img-20260408190220](media\img-20260408190220.png)
+![img-20260408190220](media/img-20260408190220.png)
 
 
 

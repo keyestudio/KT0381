@@ -24,11 +24,11 @@ This project requires the  library.
 
 2. Go to **Sketch** -> **Include Library** -> **Manage Libraries...**
 
-   ![Snipaste_2026-08-11_08-48-39](media\Snipaste_2026-08-11_08-48-39.png)
+   ![Snipaste_2026-08-11_08-48-39](media/Snipaste_2026-08-11_08-48-39.png)
 
 3. In the Library Manager search bar, type `Rtc by Makuna`. and click **Install**.
 
-   ![Snipaste_2026-08-12_09-37-25](media\Snipaste_2026-08-12_09-37-25.png)
+   ![Snipaste_2026-08-12_09-37-25](media/Snipaste_2026-08-12_09-37-25.png)
 
 #### Wiring Diagram
 | DS1302 Module | UNO R3 development board |
@@ -39,7 +39,7 @@ This project requires the  library.
 | DAT (I/O)     | Digital Pin 6  |
 | RST (CE)      | Digital Pin 7  |
 
-![Snipaste_2026-08-11_15-30-00](media\Snipaste_2026-08-11_15-30-00.png)
+![Snipaste_2026-08-11_15-30-00](media/Snipaste_2026-08-11_15-30-00.png)
 
 #### Sample Code
 

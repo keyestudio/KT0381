@@ -70,7 +70,7 @@ Operating temperature: -10 degrees Celsius to +50 degrees Celsius
 
 4\. Connect the anode of the LED (long pin) to the digital pin 13 on the board via a 220Ω resistor, and the cathode (short pin) to the GND.
 
-![f2ee855aa65969664d549d03e12bcb91](media\f2ee855aa65969664d549d03e12bcb91.jpg)
+![f2ee855aa65969664d549d03e12bcb91](media/f2ee855aa65969664d549d03e12bcb91.jpg)
 
 
 

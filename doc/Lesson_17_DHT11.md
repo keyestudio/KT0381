@@ -34,14 +34,14 @@ This project requires the `dht` library.
 
 2. Go to **Sketch** -> **Include Library** -> **Manage Libraries...**
 
-   ![Snipaste_2026-08-11_08-48-39](media\Snipaste_2026-08-11_08-48-39.png)
+   ![Snipaste_2026-08-11_08-48-39](media/Snipaste_2026-08-11_08-48-39.png)
 
 3. In the Library Manager search bar, type `DHT sensor library`.
 
-   ![Snipaste_2026-08-11_08-51-47](media\Snipaste_2026-08-11_08-51-47.png)
+   ![Snipaste_2026-08-11_08-51-47](media/Snipaste_2026-08-11_08-51-47.png)
 
 4. Find the library by **Adafruit** and click **Install**. (If prompted to install dependencies like Adafruit Unified Sensor, click "Install All").
-![Snipaste_2026-08-11_08-55-37](media\Snipaste_2026-08-11_08-55-37.png)
+![Snipaste_2026-08-11_08-55-37](media/Snipaste_2026-08-11_08-55-37.png)
 
 #### Wiring Diagram
 
@@ -51,7 +51,7 @@ This project requires the `dht` library.
 | GND (-)      | GND                      |
 | DATA (OUT)   | Digital Pin 2            |
 
-![Snipaste_2026-08-10_17-57-13](media\Snipaste_2026-08-10_17-57-13.png)
+![Snipaste_2026-08-10_17-57-13](media/Snipaste_2026-08-10_17-57-13.png)
 
 #### Sample Code
 

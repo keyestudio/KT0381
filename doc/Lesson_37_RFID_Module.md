@@ -43,7 +43,7 @@ The chip then responds by sending its stored information back to the reader in t
 
 #### Pinout
 
-![Snipaste_2026-08-11_14-07-42](media\Snipaste_2026-08-11_14-07-42.png)
+![Snipaste_2026-08-11_14-07-42](media/Snipaste_2026-08-11_14-07-42.png)
 
 VCC supplies power to the module. This can be anywhere from 2.5 to 3.3 volts. You can connect it to the 3.3V output from your Arduino. But remember that connecting it to the 5V pin will probably destroy your module!
 

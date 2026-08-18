@@ -42,7 +42,7 @@ A typical infrared communication system requires an IR transmitter and an IR rec
 
 **Key Value Diagram**
 
-![Snipaste_2026-08-18_09-40-18](media\Snipaste_2026-08-18_09-40-18.png)
+![Snipaste_2026-08-18_09-40-18](media/Snipaste_2026-08-18_09-40-18.png)
 
 The IR receiver is a photodiode and pre-amplifier that converts the IR light into an electrical signal. IR receiver diodes typically look like this:
 
