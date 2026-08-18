@@ -63,7 +63,7 @@ When different buttons are pressed, the Arduino development board will detect th
 
 - Buttons to Digital Pins 6, 7, 8
 
-  ![Snipaste_2026-08-11_16-12-12](media/Snipaste_2026-08-11_16-12-12.png)
+  ![Snipaste_2026-08-11_16-12-12](media\Snipaste_2026-08-11_16-12-12.png)
 
 #### Sample Code
 

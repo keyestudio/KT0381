@@ -58,7 +58,7 @@ The Arduino acts as the central hub, coordinating between the RTC and the LCD. E
 
 - RST to Digital Pin 10
 
-  ![Snipaste_2026-08-11_15-36-16](media/Snipaste_2026-08-11_15-36-16.png)
+  ![Snipaste_2026-08-11_15-36-16](media\Snipaste_2026-08-11_15-36-16.png)
 
 #### Sample Code
 ```cpp

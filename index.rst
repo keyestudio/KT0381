@@ -3,9 +3,9 @@
    :maxdepth: 3
    :caption: KT0381 Keyes New RFID Starter Kit
 
-   doc/00_Preface
-   doc/01_Getting_Started_with_Arduino
-   doc/KT0381
+   doc/00_Preface.rst
+   doc/01_Getting_Started_with_Arduino.md
+   doc/KT0381.rst
 
 
 

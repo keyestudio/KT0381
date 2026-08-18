@@ -39,7 +39,7 @@ This project requires the  library.
 | DAT (I/O)     | Digital Pin 6  |
 | RST (CE)      | Digital Pin 7  |
 
-![Snipaste_2026-08-11_15-30-00](media/Snipaste_2026-08-11_15-30-00.png)
+![Snipaste_2026-08-11_15-30-00](media\Snipaste_2026-08-11_15-30-00.png)
 
 #### Sample Code
 

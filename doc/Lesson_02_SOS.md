@@ -38,7 +38,7 @@ In modern society, the application of SOS has gone far beyond the maritime field
 
 The wiring is the same as Project 1.
 
-![img-20260408190220](media/img-20260408190220.png)
+![img-20260408190220](media\img-20260408190220.png)
 
 
 

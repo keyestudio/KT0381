@@ -51,7 +51,7 @@ This project requires the `dht` library.
 | GND (-)      | GND                      |
 | DATA (OUT)   | Digital Pin 2            |
 
-![Snipaste_2026-08-10_17-57-13](media/Snipaste_2026-08-10_17-57-13.png)
+![Snipaste_2026-08-10_17-57-13](media\Snipaste_2026-08-10_17-57-13.png)
 
 #### Sample Code
 

@@ -55,7 +55,7 @@ The project relies on two communication protocols: a custom single-wire protocol
 
 - DATA to Digital Pin 8
 
-  ![Snipaste_2026-08-11_15-23-33](media/Snipaste_2026-08-11_15-23-33.png)
+  ![Snipaste_2026-08-11_15-23-33](media\Snipaste_2026-08-11_15-23-33.png)
 
 #### Sample Code
 ```cpp

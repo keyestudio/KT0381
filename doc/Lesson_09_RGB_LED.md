@@ -96,7 +96,7 @@ In a common cathode RGB LED, the cathode of the internal LEDs are all connected 
 4. Connect the GND pin of the RGB LED to GND on the board
 
 
-![ae42229f79fd3bd8540f9894fe38ded2](media/ae42229f79fd3bd8540f9894fe38ded2.jpg)
+![ae42229f79fd3bd8540f9894fe38ded2](media\ae42229f79fd3bd8540f9894fe38ded2.jpg)
 
 
 

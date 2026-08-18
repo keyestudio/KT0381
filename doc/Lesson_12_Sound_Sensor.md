@@ -34,7 +34,7 @@ The sound sensor module consists of a microphone, an amplifier, and a comparator
 | DO (Digital) | Digital Pin 3  |
 | AO (Analog)  | Analog Pin A0  |
 
-![Snipaste_2026-08-10_16-20-15](media/Snipaste_2026-08-10_16-20-15.png)
+![Snipaste_2026-08-10_16-20-15](media\Snipaste_2026-08-10_16-20-15.png)
 
 #### Sample Code
 
