@@ -1,10 +1,12 @@
 
 .. toctree::
    :maxdepth: 3
-   :caption: 产品编码 文档的项目名称
+   :caption: KT0381 Keyes New RFID Starter Kit
 
-   README.md
-   docs/docs
+
+   docs/00_Preface
+   docs/01_Getting_Started_with_Arduino
+   docs/README
 
 
 
