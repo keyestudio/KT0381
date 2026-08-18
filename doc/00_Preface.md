@@ -70,4 +70,4 @@ Keyes RFID Starter Kit is an Arduino-compatible development kit designed for beg
 |  40  |      ![Img](media/99021fe2a9e83ecd852be8fd870a2eef.png)      |         Single-gang Pot         |  1   |
 |  41  |      ![Img](media/9c66fe9cacaa451b9f2b8c019a897efc.png)      |        AA Battery Holder        |  1   |
 |  42  |      ![Img](media/e9a8d050105397bb183512fb4ffdd2f6.png)      |          Jumper Wires           |  65  |
-|  43  |      ![Img](media/6a11918efdd9458fcbed69415b01934b.png)      |   Male to FemaleDupont Wires    |  20  |
+|  43  |      ![Img](media/6a11918efdd9458fcbed69415b01934b.png)      |   Male to Female Dupont Wires   |  20  |
