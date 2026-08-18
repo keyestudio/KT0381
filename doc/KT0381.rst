@@ -5,7 +5,7 @@ Projects
 **Before starting the projects, you can click the link to download the
 code files.**
 
-`code.7z <./code.7z>`__
+Code download: :download:`code.7z <./code.7z>`
 
 
 LED Control
