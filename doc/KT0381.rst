@@ -1,0 +1,77 @@
+=========
+Projects
+=========
+
+
+.. toctree::
+    :maxdepth: 1
+
+    Lesson_01_LED_Blink
+    Lesson_02_SOS
+    Lesson_03_PWM
+    Lesson_04_Traffic_Lights
+    Lesson_05_LED_Flowing_Light
+    Lesson_06_74HC595_Chip
+    Lesson_07_Active_Buzzer
+    Lesson_08_Passive_Buzzer
+    Lesson_09_RGB_LED
+    Lesson_10_Button_Controlled_LED
+    Lesson_11_Tilt_Switch
+    Lesson_12_Sound_Sensor
+    Lesson_13_Sound_Controlled_LED
+    Lesson_14_Photoresistor
+    Lesson_15_Flame_Detection
+    Lesson_16_Temperature_Sensor
+    Lesson_17_DHT11
+    Lesson_18_Potentiometer
+    Lesson_19_Water_Level_Sensor
+    Lesson_20_5V_Relay
+    Lesson_21_Stepper_Motor
+    Lesson_22_Servo
+    Lesson_23_1digit_LED_Segment
+    Lesson_24_4digit_LED_Segment
+    Lesson_25_8x8_LED_Matrix
+    Lesson_26_1602_LCD
+    Lesson_27_DHT11_LCD
+    Lesson_28_DS1302_RTC
+    Lesson_29_DS1302_LCD_Clock
+    Lesson_30_Joystick_Module
+    Lesson_31_Joystick_Motion_Control
+    Lesson_32_Matrix_Keypads
+    Lesson_33_IR_Remote
+    Lesson_34_Thermometer
+    Lesson_35_Vending_Machine
+    Lesson_36_Password_Lock
+    Lesson_37_RFID_Module
+    Lesson_38_RFID_Smart_Home
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,3 +1,5 @@
+# Getting Started with Arduino
+
 ## 1. About Arduino IDE
 
 Arduino IDE is an integrated development environment dedicated to Arduino which is an open-source electronics platform based on easy-to-read interface and simplified programming process, aimed at students without a background in electronics. 
